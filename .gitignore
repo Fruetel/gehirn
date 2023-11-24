@@ -1,0 +1,6 @@
+venv
+log
+models
+
+# Used by dotenv library to load local environment variables.
+.env.*.local
